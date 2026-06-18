@@ -25,7 +25,7 @@ class Student {
 }
 
 // Main Class
-public class Main {
+public class Studentmain {
 
     public static void main(String[] args) {
 
