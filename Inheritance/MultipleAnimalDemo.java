@@ -16,7 +16,6 @@ class Dog implements Animal, Pet {
         System.out.println("Dog is playing");
     }
 }
-
 public class MultipleAnimalDemo {
     public static void main(String[] args) {
         Dog d = new Dog();
